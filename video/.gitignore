@@ -2,3 +2,6 @@ node_modules/
 .models/
 build/
 *.wav
+out/*.log
+out/test.*
+qa/
