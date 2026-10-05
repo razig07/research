@@ -14,3 +14,5 @@ out/part*.mp4
 out/concat_*.txt
 out/chapters_*.txt
 out/full_video.mp4
+out/*.m4a
+out/v.mp4
