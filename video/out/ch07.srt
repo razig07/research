@@ -1,0 +1,404 @@
+1
+00:00:00,000 --> 00:00:02,820
+Chapter seven, how skill is actually built.
+
+2
+00:00:04,180 --> 00:00:07,980
+A recall from chapter six, what did repeatedly watching
+
+3
+00:00:07,980 --> 00:00:11,100
+how to videos do to people's confidence and to
+
+4
+00:00:11,100 --> 00:00:11,820
+their skill?
+
+5
+00:00:16,100 --> 00:00:18,840
+Confidence went up, actual skill did not.
+
+6
+00:00:19,320 --> 00:00:22,080
+Only a brief hands -on attempt reduced the illusion.
+
+7
+00:00:22,860 --> 00:00:26,880
+Deliberate practice, as Anders Ericsson defined it, means focused
+
+8
+00:00:26,880 --> 00:00:31,260
+work on specific weaknesses with feedback designed by a
+
+9
+00:00:31,260 --> 00:00:32,100
+skilled teacher.
+
+10
+00:00:32,700 --> 00:00:35,680
+It is necessary, but it explains less than the
+
+11
+00:00:35,680 --> 00:00:37,880
+10 ,000 hours story suggests.
+
+12
+00:00:38,500 --> 00:00:42,740
+Across 88 studies, deliberate practice explained about 12 %
+
+13
+00:00:42,740 --> 00:00:44,280
+of the differences in performance.
+
+14
+00:00:44,720 --> 00:00:48,640
+That varies hugely by domain, 26 % in games,
+
+15
+00:00:49,120 --> 00:00:53,040
+21 in music, 18 in sports, four in education,
+
+16
+00:00:53,440 --> 00:00:55,180
+and under 1 % in professions.
+
+17
+00:00:55,180 --> 00:00:55,640
+Americans.
+
+18
+00:00:55,700 --> 00:00:59,400
+Among elite athletes, it explained just 1%.
+
+19
+00:00:59,400 --> 00:01:02,820
+A double -blind repeat of the famous violinist study
+
+20
+00:01:02,820 --> 00:01:06,420
+with 39 violinists did not confirm the original.
+
+21
+00:01:07,100 --> 00:01:09,640
+The good group had actually logged more practice than
+
+22
+00:01:09,640 --> 00:01:10,280
+the best group.
+
+23
+00:01:10,820 --> 00:01:12,540
+Practice is one factor of many.
+
+24
+00:01:13,220 --> 00:01:16,840
+Ericsson's side replies that the critics measured generic practice,
+
+25
+00:01:17,220 --> 00:01:21,740
+and their reanalysis of strict deliberate practice estimates 29%,
+
+26
+00:01:21,740 --> 00:01:25,300
+rising to 61 % after statistical correction.
+
+27
+00:01:25,900 --> 00:01:29,480
+Either way, starting knowledge, working memory, the quality of
+
+28
+00:01:29,480 --> 00:01:33,040
+feedback, and how predictable the domain is all matter
+
+29
+00:01:33,040 --> 00:01:34,260
+alongside volume.
+
+30
+00:01:34,940 --> 00:01:38,500
+Your skills are profession -like, so better feedback loops
+
+31
+00:01:38,500 --> 00:01:41,660
+and better mental models are your levers, more than
+
+32
+00:01:41,660 --> 00:01:42,420
+raw hours.
+
+33
+00:01:42,420 --> 00:01:47,860
+Across 607 effect sizes, feedback improved performance by about
+
+34
+00:01:47,860 --> 00:01:50,820
+0 .4 on average, but more than a third
+
+35
+00:01:50,820 --> 00:01:55,320
+of feedback interventions made performance worse, especially feedback that
+
+36
+00:01:55,320 --> 00:01:58,040
+pulled attention toward the self rather than the task.
+
+37
+00:01:58,560 --> 00:02:03,660
+A 2020 meta -analysis of 435 studies found an
+
+38
+00:02:03,660 --> 00:02:07,260
+average of 0 .48, and the more information the
+
+39
+00:02:07,260 --> 00:02:09,820
+feedback contained, the bigger the effect.
+
+40
+00:02:09,820 --> 00:02:12,260
+Good feedback answers three questions.
+
+41
+00:02:12,880 --> 00:02:13,540
+Where am I going?
+
+42
+00:02:13,740 --> 00:02:14,580
+How am I going?
+
+43
+00:02:14,940 --> 00:02:15,680
+And where to next?
+
+44
+00:02:16,300 --> 00:02:18,940
+Feedback about the person is the least effective kind.
+
+45
+00:02:19,380 --> 00:02:22,880
+For your work, retention graphs, click through rates, and
+
+46
+00:02:22,880 --> 00:02:25,440
+a viewer saying here's where I lost interest, a
+
+47
+00:02:25,440 --> 00:02:26,680
+rich task feedback.
+
+48
+00:02:27,700 --> 00:02:30,360
+Comments praising or attacking you are weak or harmful
+
+49
+00:02:30,360 --> 00:02:31,640
+as learning signals.
+
+50
+00:02:32,380 --> 00:02:35,520
+Gut instinct becomes reliable only where the environment is
+
+51
+00:02:35,520 --> 00:02:38,360
+regular and gives fast, clear feedback.
+
+52
+00:02:39,140 --> 00:02:41,240
+Researchers call these kind environments.
+
+53
+00:02:41,960 --> 00:02:45,840
+In Wicked Ones, feedback is delayed, incomplete, or biased,
+
+54
+00:02:46,360 --> 00:02:49,220
+and people gain confidence without gaining skill.
+
+55
+00:02:49,820 --> 00:02:52,760
+No study classifies creator work this way, so this
+
+56
+00:02:52,760 --> 00:02:53,860
+is reasoned inference.
+
+57
+00:02:54,560 --> 00:02:55,940
+Technical editing is kind.
+
+58
+00:02:56,460 --> 00:02:59,740
+Recreate expert edits shot -for -shot with instant checks.
+
+59
+00:02:59,740 --> 00:03:02,240
+Creative editing is semi -kind.
+
+60
+00:03:02,600 --> 00:03:05,460
+Rebuild sequences and compare three editors.
+
+61
+00:03:06,220 --> 00:03:08,120
+AI prompting is mostly kind.
+
+62
+00:03:08,660 --> 00:03:11,400
+Test two or three variants on the same input.
+
+63
+00:03:12,040 --> 00:03:13,780
+Scripting and hooks are semi -kind.
+
+64
+00:03:14,320 --> 00:03:16,740
+Write daily and check 30 -second retention.
+
+65
+00:03:17,600 --> 00:03:19,660
+Ideation and packaging are semi -wicked.
+
+66
+00:03:20,100 --> 00:03:22,120
+High volume and log your predictions.
+
+67
+00:03:23,120 --> 00:03:26,740
+Brand building is wicked with long horizon signals and
+
+68
+00:03:26,740 --> 00:03:27,800
+business is wicked.
+
+69
+00:03:27,800 --> 00:03:31,880
+write hypotheses, run cheap tests, and review them with
+
+70
+00:03:31,880 --> 00:03:32,440
+a mentor.
+
+71
+00:03:33,400 --> 00:03:36,020
+Experts outperform others not because they have bigger working
+
+72
+00:03:36,020 --> 00:03:39,080
+memories, but because they have libraries of patterns.
+
+73
+00:03:39,940 --> 00:03:43,400
+Chessmasters recall real board positions far better than novices,
+
+74
+00:03:43,780 --> 00:03:45,040
+but not random ones.
+
+75
+00:03:45,560 --> 00:03:48,860
+For you, the patterns are hook types, story structures,
+
+76
+00:03:49,300 --> 00:03:51,640
+title formulas, and transition styles.
+
+77
+00:03:52,260 --> 00:03:55,400
+Build the library by labeling examples and practicing from
+
+78
+00:03:55,400 --> 00:03:57,760
+the labels, not by watching passively.
+
+79
+00:03:58,720 --> 00:04:01,240
+Experts also leave out roughly 70 % of their
+
+80
+00:04:01,240 --> 00:04:03,820
+decisions when they explain how they work.
+
+81
+00:04:04,380 --> 00:04:06,640
+So don't ask a mentor, what's your advice?
+
+82
+00:04:07,380 --> 00:04:09,660
+Ask, walk me through the last time you did
+
+83
+00:04:09,660 --> 00:04:10,060
+this.
+
+84
+00:04:10,660 --> 00:04:13,480
+Practice transfers mainly to closely similar tasks.
+
+85
+00:04:14,140 --> 00:04:17,620
+Working memory training transferred to similar tasks with an
+
+86
+00:04:17,620 --> 00:04:21,140
+effect of 0 .46, but to different ones at
+
+87
+00:04:21,140 --> 00:04:22,760
+only 0 .12.
+
+88
+00:04:23,340 --> 00:04:25,660
+So your practice should look like the real work,
+
+89
+00:04:26,200 --> 00:04:28,920
+real scripts, real edits, real offers.
+
+90
+00:04:29,580 --> 00:04:31,300
+Your skills are profession -like.
+
+91
+00:04:31,700 --> 00:04:33,840
+If not raw hours, what are your levers?
+
+92
+00:04:38,120 --> 00:04:41,100
+Better feedback loops and better mental models.
+
+93
+00:04:41,880 --> 00:04:45,680
+Pattern libraries built by labeling examples and practicing from
+
+94
+00:04:45,680 --> 00:04:46,020
+them.
+
+95
+00:04:46,540 --> 00:04:48,940
+What should you ask a mentor or instead of
+
+96
+00:04:48,940 --> 00:04:49,820
+what's your advice.
+
+97
+00:04:53,600 --> 00:04:56,440
+Walk me through the last time you did this.
+
+98
+00:04:57,340 --> 00:05:00,080
+Experts leave out about 70 % of their decisions
+
+99
+00:05:00,080 --> 00:05:01,460
+when they explain.
+
+100
+00:05:02,080 --> 00:05:07,200
+Next, skill by skill, ideation, scripting, AI prompting, editing,
+
+101
+00:05:07,460 --> 00:05:08,320
+brand and business.
+

@@ -1,0 +1,672 @@
+1
+00:00:00,000 --> 00:00:03,100
+Chapter eight, what the evidence says about each skill
+
+2
+00:00:03,100 --> 00:00:04,160
+in your work.
+
+3
+00:00:05,320 --> 00:00:09,140
+A recall from chapter seven, is YouTube packaging a
+
+4
+00:00:09,140 --> 00:00:12,540
+kind or a wicked learning environment and what does
+
+5
+00:00:12,540 --> 00:00:13,700
+that mean for practice?
+
+6
+00:00:17,820 --> 00:00:21,720
+Semi -wicked, feedback is noisy and delayed, so gut
+
+7
+00:00:21,720 --> 00:00:22,880
+feel is unreliable.
+
+8
+00:00:23,560 --> 00:00:26,440
+Use high volume prediction logs and tests.
+
+9
+00:00:26,440 --> 00:00:28,000
+Ideation first.
+
+10
+00:00:28,540 --> 00:00:31,440
+Hit rates stay roughly constant per attempt, so more
+
+11
+00:00:31,440 --> 00:00:33,460
+genuine attempts produce more hits.
+
+12
+00:00:34,160 --> 00:00:36,240
+This is Simonton's equal odds rule.
+
+13
+00:00:36,760 --> 00:00:39,900
+In one study, the number of responses correlated zero.
+
+14
+00:00:41,220 --> 00:00:43,120
+73 with judged creativity.
+
+15
+00:00:43,940 --> 00:00:45,240
+Generate alone first.
+
+16
+00:00:46,120 --> 00:00:49,480
+Groups brainstorming together produce fewer ideas than the same
+
+17
+00:00:49,480 --> 00:00:52,060
+people working separately and then pooling.
+
+18
+00:00:52,480 --> 00:00:56,520
+A hybrid process, alone first and then together, produced
+
+19
+00:00:56,520 --> 00:00:59,560
+more and better ideas and was better at telling
+
+20
+00:00:59,560 --> 00:01:00,240
+them apart.
+
+21
+00:01:00,920 --> 00:01:03,320
+Do not trust your own excitement about an idea.
+
+22
+00:01:04,040 --> 00:01:09,140
+Among 339 circus professionals, creators predicted the success of
+
+23
+00:01:09,140 --> 00:01:12,520
+other people's new acts better than managers did, but
+
+24
+00:01:12,520 --> 00:01:13,320
+not their own.
+
+25
+00:01:13,940 --> 00:01:16,620
+That is a direct warning for anyone prone to
+
+26
+00:01:16,620 --> 00:01:17,660
+success fantasies.
+
+27
+00:01:18,380 --> 00:01:20,900
+Outsource selection to peers and to data.
+
+28
+00:01:20,900 --> 00:01:24,660
+AI raises the floor, but narrows the range.
+
+29
+00:01:25,560 --> 00:01:29,780
+Writers given AI story ideas wrote better individually, but
+
+30
+00:01:29,780 --> 00:01:32,440
+their stories became more alike collectively.
+
+31
+00:01:33,400 --> 00:01:36,460
+Asking the model to reason step by step restored
+
+32
+00:01:36,460 --> 00:01:37,820
+much of the diversity.
+
+33
+00:01:38,420 --> 00:01:40,220
+And creativity can be trained.
+
+34
+00:01:40,660 --> 00:01:45,320
+Across 332 effect sizes, the effect was about half
+
+35
+00:01:45,320 --> 00:01:49,400
+a standard deviation, with training in selecting and evaluating
+
+36
+00:01:49,400 --> 00:01:51,220
+beating brainstorming training.
+
+37
+00:01:52,200 --> 00:01:55,220
+Moderate constraints help, too many or too few hurt.
+
+38
+00:01:55,980 --> 00:02:00,060
+Scripting, writing expertise develops in stages from knowledge telling,
+
+39
+00:02:00,560 --> 00:02:03,940
+writing down what you know through knowledge transforming to
+
+40
+00:02:03,940 --> 00:02:06,940
+knowledge crafting where you hold the reader's moment by
+
+41
+00:02:06,940 --> 00:02:08,760
+moment experience in mind.
+
+42
+00:02:09,700 --> 00:02:12,080
+Professionals compose for just a few hours a day
+
+43
+00:02:12,080 --> 00:02:16,340
+on a highly consistent schedule because binge writing breeds
+
+44
+00:02:16,340 --> 00:02:17,240
+writer's block.
+
+45
+00:02:17,240 --> 00:02:22,720
+Instruction research favours explicit strategy instruction at 0 .82,
+
+46
+00:02:23,360 --> 00:02:27,600
+help from peers at 0 .75, and specific goals
+
+47
+00:02:27,600 --> 00:02:30,820
+for the finished product at 0 .70.
+
+48
+00:02:31,580 --> 00:02:35,320
+Studying models helps, and watching real readers react to
+
+49
+00:02:35,320 --> 00:02:38,440
+your own draft produced especially large gains.
+
+50
+00:02:39,140 --> 00:02:41,680
+Benjamin Franklin's method still works as a drill.
+
+51
+00:02:42,280 --> 00:02:45,900
+He reduced essays to short hints, waited days, rewrote
+
+52
+00:02:45,900 --> 00:02:48,640
+them from the hints without looking, then compared his
+
+53
+00:02:48,640 --> 00:02:49,840
+version with the original.
+
+54
+00:02:50,560 --> 00:02:53,080
+For you, pick a top intro, reduce it to
+
+55
+00:02:53,080 --> 00:02:55,800
+hints, wait two or three days, rewrite it, and
+
+56
+00:02:55,800 --> 00:02:56,220
+compare.
+
+57
+00:02:56,900 --> 00:03:01,600
+That one exercise combines spacing, retrieval, generation, and feedback.
+
+58
+00:03:02,320 --> 00:03:03,820
+Hooks rest on solid theory.
+
+59
+00:03:04,640 --> 00:03:07,760
+Curiosity arises when attention becomes focused on a gap
+
+60
+00:03:07,760 --> 00:03:08,720
+in one's knowledge.
+
+61
+00:03:09,540 --> 00:03:11,780
+Specific retention rules, like Mr.
+
+62
+00:03:11,980 --> 00:03:15,080
+Beast's leaked memo obsessing over the first minute, are
+
+63
+00:03:15,080 --> 00:03:16,340
+practitioner heuristics.
+
+64
+00:03:17,060 --> 00:03:20,540
+But YouTube's own intro metric, the share still watching
+
+65
+00:03:20,540 --> 00:03:23,800
+at 30 seconds gives you an objective check.
+
+66
+00:03:24,520 --> 00:03:25,300
+AI Prompting.
+
+67
+00:03:26,040 --> 00:03:27,780
+Official guidance agrees on the basics.
+
+68
+00:03:28,400 --> 00:03:32,100
+Be explicit, explain why, give three to five examples
+
+69
+00:03:32,100 --> 00:03:35,920
+and define success criteria with ways to test against
+
+70
+00:03:35,920 --> 00:03:37,700
+them before tuning a prompt.
+
+71
+00:03:38,360 --> 00:03:42,320
+Field evidence shows prompting skill rests on domain skill.
+
+72
+00:03:42,320 --> 00:03:48,580
+On tasks within AI's abilities, 758 consultants produced over
+
+73
+00:03:48,580 --> 00:03:52,780
+40 % higher quality and were 25 % faster.
+
+74
+00:03:53,360 --> 00:03:56,820
+But on a task deliberately beyond those abilities, AI
+
+75
+00:03:56,820 --> 00:03:59,860
+users were 19 points less likely to get it
+
+76
+00:03:59,860 --> 00:04:00,180
+right.
+
+77
+00:04:00,740 --> 00:04:01,760
+The gains are real.
+
+78
+00:04:02,420 --> 00:04:05,640
+Chat GPT cut professional writing time by 40 %
+
+79
+00:04:05,640 --> 00:04:07,680
+and raised quality by 18.
+
+80
+00:04:07,680 --> 00:04:12,120
+Novice support agents gained 34%, but the losses are
+
+81
+00:04:12,120 --> 00:04:12,800
+real too.
+
+82
+00:04:13,420 --> 00:04:17,620
+Among 640 Kenyan entrepreneurs with an AI business mentor,
+
+83
+00:04:18,140 --> 00:04:22,280
+high performers gained about 15%, while low performers did
+
+84
+00:04:22,280 --> 00:04:25,640
+8 % worse, partly because they asked it harder
+
+85
+00:04:25,640 --> 00:04:26,240
+questions.
+
+86
+00:04:26,820 --> 00:04:27,940
+The rule that follows.
+
+87
+00:04:28,580 --> 00:04:31,580
+When the goal is learning, attempt first, then use
+
+88
+00:04:31,580 --> 00:04:33,520
+AI to critique and explain.
+
+89
+00:04:33,520 --> 00:04:37,060
+when the goal is output only delegate what you
+
+90
+00:04:37,060 --> 00:04:38,080
+could judge yourself.
+
+91
+00:04:39,180 --> 00:04:43,100
+Creative editing, good continuity editing, manages viewer attention.
+
+92
+00:04:43,780 --> 00:04:46,000
+Viewers asked to spot edits missed about a quarter
+
+93
+00:04:46,000 --> 00:04:48,760
+of cuts and a third when the cut matched
+
+94
+00:04:48,760 --> 00:04:49,680
+sudden motion.
+
+95
+00:04:50,400 --> 00:04:53,540
+Hollywood shot lengths have converged toward a rhythm that
+
+96
+00:04:53,540 --> 00:04:57,560
+resembles human attention so pacing should vary in waves
+
+97
+00:04:57,560 --> 00:05:00,880
+not run at a uniform jump cut cadence.
+
+98
+00:05:01,340 --> 00:05:04,280
+Taste is partly learning to tell styles apart, and
+
+99
+00:05:04,280 --> 00:05:07,240
+mixing examples of different styles taught them better than
+
+100
+00:05:07,240 --> 00:05:08,120
+one at a time.
+
+101
+00:05:08,620 --> 00:05:11,180
+So study three editors side by side.
+
+102
+00:05:11,780 --> 00:05:15,200
+Walter Murch's Rule of Six ranks emotion first, then
+
+103
+00:05:15,200 --> 00:05:16,680
+story, then rhythm.
+
+104
+00:05:17,340 --> 00:05:20,420
+And Ira Glass's Taste gap closes only with a
+
+105
+00:05:20,420 --> 00:05:21,340
+volume of work.
+
+106
+00:05:22,180 --> 00:05:22,580
+Brand building.
+
+107
+00:05:23,160 --> 00:05:25,980
+Marketing science says brands brands grow mainly by reaching
+
+108
+00:05:25,980 --> 00:05:29,520
+more buyers and being easy to notice, recall, and
+
+109
+00:05:29,520 --> 00:05:29,840
+buy.
+
+110
+00:05:30,640 --> 00:05:35,540
+Distinctive assets, like consistent colors, phrases, and visual motifs,
+
+111
+00:05:35,540 --> 00:05:37,480
+need both fame and uniqueness.
+
+112
+00:05:38,080 --> 00:05:41,720
+On the effort split, an analysis of 996 ad
+
+113
+00:05:41,720 --> 00:05:45,100
+cases suggests about 60 to 40 between long -term
+
+114
+00:05:45,100 --> 00:05:48,380
+brand building and short -term activation, or 46 to
+
+115
+00:05:48,380 --> 00:05:51,760
+54 for selling to businesses, though Byron Sharp calls
+
+116
+00:05:51,760 --> 00:05:53,220
+that ratio very misleading.
+
+117
+00:05:53,220 --> 00:05:58,400
+For personal brand, repeated exposure increases liking, similarity drives
+
+118
+00:05:58,400 --> 00:06:02,460
+attraction, and trust and connection best predict whether audiences
+
+119
+00:06:02,460 --> 00:06:02,980
+act.
+
+120
+00:06:03,420 --> 00:06:05,720
+Treat all of these as hypotheses to test.
+
+121
+00:06:06,260 --> 00:06:10,340
+Business, in a randomized trial with Italian startups, founders
+
+122
+00:06:10,340 --> 00:06:14,260
+taught to state theories, form hypotheses, and run rigorous
+
+123
+00:06:14,260 --> 00:06:17,280
+tests earned more revenue and pivoted more.
+
+124
+00:06:18,040 --> 00:06:22,220
+Generic business training shows relatively modest effects, so keep
+
+125
+00:06:22,220 --> 00:06:26,060
+a written experiment log rather than collecting courses and
+
+126
+00:06:26,060 --> 00:06:29,040
+use human mentors for hard strategic calls.
+
+127
+00:06:30,020 --> 00:06:30,800
+Finally, imagination.
+
+128
+00:06:31,680 --> 00:06:33,540
+Your imagination is not the enemy.
+
+129
+00:06:34,200 --> 00:06:37,560
+About 20 % of the most important ideas of
+
+130
+00:06:37,560 --> 00:06:42,840
+45 physicists and 53 professional writers arrived while they
+
+131
+00:06:42,840 --> 00:06:46,820
+were thinking about something else, but incubation has conditions.
+
+132
+00:06:47,360 --> 00:06:50,400
+In a 12 -minute incubation study, only the group
+
+133
+00:06:50,400 --> 00:06:54,300
+doing an undemanding task improved and only on problems
+
+134
+00:06:54,300 --> 00:06:55,900
+they had already worked on.
+
+135
+00:06:56,340 --> 00:07:01,360
+Across 117 studies, incubation effects were modest and grew
+
+136
+00:07:01,360 --> 00:07:02,660
+with longer preparation.
+
+137
+00:07:03,320 --> 00:07:07,740
+And vividness is not originality, immersive daydreaming was linked
+
+138
+00:07:07,740 --> 00:07:09,380
+to lower originality.
+
+139
+00:07:09,780 --> 00:07:13,080
+So the line between incubation and escapism has five
+
+140
+00:07:13,080 --> 00:07:13,640
+features.
+
+141
+00:07:14,160 --> 00:07:16,880
+A loaded problem first, First, something you have already
+
+142
+00:07:16,880 --> 00:07:20,980
+worked on, a bounded, low -demand activity, a walk,
+
+143
+00:07:21,340 --> 00:07:24,620
+not hours in bed, capture by voice memo or
+
+144
+00:07:24,620 --> 00:07:27,340
+notebook, a return to the work the same day,
+
+145
+00:07:27,800 --> 00:07:30,840
+and content about the process and the obstacles, not
+
+146
+00:07:30,840 --> 00:07:32,140
+idealized outcomes.
+
+147
+00:07:33,040 --> 00:07:36,340
+Students who imagined the process of studying studied more
+
+148
+00:07:36,340 --> 00:07:37,480
+and scored higher.
+
+149
+00:07:38,060 --> 00:07:40,760
+So imagine the cold open of your next video
+
+150
+00:07:40,760 --> 00:07:43,320
+or the obstacle you will hit in the edit,
+
+151
+00:07:43,320 --> 00:07:45,240
+not the life after success.
+
+152
+00:07:45,940 --> 00:07:49,900
+One caution, no study has tested whether channeling MD
+
+153
+00:07:49,900 --> 00:07:52,660
+into creative work reduces MD.
+
+154
+00:07:53,280 --> 00:07:56,380
+The risk is that an ideation slot becomes a
+
+155
+00:07:56,380 --> 00:07:58,280
+sanctioned gateway into immersion.
+
+156
+00:07:58,880 --> 00:08:02,260
+So cap it, write rather than just imagine and
+
+157
+00:08:02,260 --> 00:08:05,220
+track whether your total fantasy time goes down.
+
+158
+00:08:05,660 --> 00:08:08,560
+What is the rule for using AI when your
+
+159
+00:08:08,560 --> 00:08:09,420
+goal is learning?
+
+160
+00:08:13,320 --> 00:08:17,080
+Attempt first, then use AI to critique and explain.
+
+161
+00:08:17,880 --> 00:08:18,960
+Hints, not answers.
+
+162
+00:08:19,820 --> 00:08:23,220
+Name three of the five features that separate incubation
+
+163
+00:08:23,220 --> 00:08:24,480
+from escapism.
+
+164
+00:08:28,700 --> 00:08:32,400
+A loaded problem first, a bounded low demand activity,
+
+165
+00:08:33,000 --> 00:08:35,600
+capture, a return to the work the same day,
+
+166
+00:08:36,020 --> 00:08:39,400
+and imagining process and obstacles instead of success.
+
+167
+00:08:39,400 --> 00:08:42,860
+Next, the protocol, what to do in the seven
+
+168
+00:08:42,860 --> 00:08:44,800
+moments that decide your day.
+

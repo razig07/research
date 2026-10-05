@@ -1,0 +1,892 @@
+1
+00:00:00,000 --> 00:00:00,840
+Chapter 9.
+
+2
+00:00:01,380 --> 00:00:04,720
+A practical protocol for the seven moments that decide
+
+3
+00:00:04,720 --> 00:00:07,840
+your day with every step graded by evidence.
+
+4
+00:00:09,260 --> 00:00:10,980
+A recall from chapter 8.
+
+5
+00:00:11,560 --> 00:00:14,300
+What is the risk of a scheduled ideation slot
+
+6
+00:00:14,300 --> 00:00:15,920
+for someone with MD?
+
+7
+00:00:19,700 --> 00:00:23,000
+It can become a sanctioned gateway into immersion.
+
+8
+00:00:23,620 --> 00:00:27,020
+So cap it, write rather than just imagine and
+
+9
+00:00:27,020 --> 00:00:28,960
+track your total fantasy time.
+
+10
+00:00:29,780 --> 00:00:30,460
+First, the grades.
+
+11
+00:00:31,080 --> 00:00:34,060
+A means a randomized trial in MD or robust
+
+12
+00:00:34,060 --> 00:00:36,420
+meta -analysis on the exact mechanism.
+
+13
+00:00:37,220 --> 00:00:40,180
+B means trials or meta -analyzes in related problems,
+
+14
+00:00:40,540 --> 00:00:45,220
+like procrastination, addiction, insomnia, or goal pursuit, applied by
+
+15
+00:00:45,220 --> 00:00:45,580
+analogy.
+
+16
+00:00:46,380 --> 00:00:50,180
+C means interviews, case reports, expert models, or small
+
+17
+00:00:50,180 --> 00:00:50,620
+studies.
+
+18
+00:00:51,380 --> 00:00:54,300
+D means reasoned inference that nobody has tested.
+
+19
+00:00:54,800 --> 00:00:57,700
+The backbone comes from the only MD treatment trial.
+
+20
+00:00:58,240 --> 00:01:02,740
+It randomized 557 people to an eight -week online
+
+21
+00:01:02,740 --> 00:01:08,260
+program of psychoeducation, motivation work, mindfulness, and daily self
+
+22
+00:01:08,260 --> 00:01:08,800
+monitoring.
+
+23
+00:01:09,540 --> 00:01:14,420
+Both program versions improved MD severity, frequency, and functioning
+
+24
+00:01:14,420 --> 00:01:15,900
+with large effects.
+
+25
+00:01:16,380 --> 00:01:20,420
+In the full program 39 % improved reliably and
+
+26
+00:01:20,420 --> 00:01:24,040
+24 % to a clinically significant degree and the
+
+27
+00:01:24,040 --> 00:01:25,660
+gains held at six months.
+
+28
+00:01:26,260 --> 00:01:29,680
+A wait list group using willpower and online forums
+
+29
+00:01:29,680 --> 00:01:31,060
+did not improve.
+
+30
+00:01:31,660 --> 00:01:34,740
+About 37 % dropped out and there was no
+
+31
+00:01:34,740 --> 00:01:35,860
+placebo control.
+
+32
+00:01:36,780 --> 00:01:39,160
+Moment A, when the work gets uncomfortable and the
+
+33
+00:01:39,160 --> 00:01:39,800
+urge hits.
+
+34
+00:01:40,360 --> 00:01:43,220
+First, expect the moment and reframe it.
+
+35
+00:01:43,640 --> 00:01:46,480
+The discomfort that triggers the urge is the same
+
+36
+00:01:46,480 --> 00:01:51,080
+discomfort that signals learning because effortful practice feels worse
+
+37
+00:01:51,080 --> 00:01:52,280
+and works better.
+
+38
+00:01:52,960 --> 00:01:55,040
+Second, write one if then plan for this exact
+
+39
+00:01:55,040 --> 00:01:58,000
+moment and rehearse it aloud daily for two weeks.
+
+40
+00:01:58,540 --> 00:02:00,920
+For example, if I notice the urge to drift
+
+41
+00:02:00,920 --> 00:02:03,260
+when the script or edit gets hard, then I
+
+42
+00:02:03,260 --> 00:02:05,880
+say urge, take three breaths and do the next
+
+43
+00:02:05,880 --> 00:02:08,740
+two -minute step, one rough sentence or one cut.
+
+44
+00:02:09,340 --> 00:02:12,140
+If then plans improved goal attainment with an effect
+
+45
+00:02:12,140 --> 00:02:15,980
+of 0 .65 across 94 tests and more with
+
+46
+00:02:15,980 --> 00:02:19,460
+a strict if then format, high motivation, and rehearsal.
+
+47
+00:02:20,180 --> 00:02:21,760
+Third, respond in three steps.
+
+48
+00:02:22,480 --> 00:02:23,500
+Notice, name, return.
+
+49
+00:02:24,080 --> 00:02:26,460
+This non -judgmental awareness skill is the core of
+
+50
+00:02:26,460 --> 00:02:29,120
+the MD trial and a two -week mindfulness course
+
+51
+00:02:29,120 --> 00:02:32,280
+separately reduced distracting thoughts and improved test scores.
+
+52
+00:02:32,880 --> 00:02:34,220
+Don't try to force the thought away.
+
+53
+00:02:34,560 --> 00:02:38,200
+Across 31 studies, suppressed thoughts rebound, and don't berate
+
+54
+00:02:38,200 --> 00:02:39,320
+yourself after a lapse.
+
+55
+00:02:39,900 --> 00:02:43,460
+Then log every episode, start time, trigger minutes lost,
+
+56
+00:02:43,840 --> 00:02:44,620
+and what you did.
+
+57
+00:02:45,320 --> 00:02:47,680
+Logging is the component that sped up gains in
+
+58
+00:02:47,680 --> 00:02:48,180
+the trial.
+
+59
+00:02:48,740 --> 00:02:50,460
+Fourth, make the task less aversive.
+
+60
+00:02:51,080 --> 00:02:53,740
+Break it into micro -steps and finish one unit
+
+61
+00:02:53,740 --> 00:02:56,740
+before switching, which reduces attention residue.
+
+62
+00:02:57,320 --> 00:02:59,280
+Take breaks when you need them rather than on
+
+63
+00:02:59,280 --> 00:03:08,980
+a Decide you'll break activity in advance, no music,
+
+64
+00:03:09,400 --> 00:03:10,340
+no lying down.
+
+65
+00:03:10,800 --> 00:03:13,100
+And if pacing is part of your ritual, use
+
+66
+00:03:13,100 --> 00:03:14,320
+a competing response.
+
+67
+00:03:15,140 --> 00:03:18,380
+Notice the first sign, like reaching for earbuds or
+
+68
+00:03:18,380 --> 00:03:21,880
+standing up to pace, then hold an incompatible posture
+
+69
+00:03:21,880 --> 00:03:25,640
+for about a minute, seated, feet flat, hands on
+
+70
+00:03:25,640 --> 00:03:26,260
+the keyboard.
+
+71
+00:03:27,080 --> 00:03:31,100
+Habit reversal training reduced repetitive behaviours with a large
+
+72
+00:03:31,100 --> 00:03:31,620
+effect.
+
+73
+00:03:32,320 --> 00:03:34,500
+Moment B, when your hand reaches for music.
+
+74
+00:03:34,500 --> 00:03:38,580
+music, make music unavailable, not just forbidden, streaming apps
+
+75
+00:03:38,580 --> 00:03:41,580
+blocked during work, earbuds out of reach, and the
+
+76
+00:03:41,580 --> 00:03:42,720
+phone in another room.
+
+77
+00:03:43,380 --> 00:03:46,640
+In Summer's case study, a 25 -year -old man
+
+78
+00:03:46,640 --> 00:03:50,120
+who confined recreational internet to one late evening hour
+
+79
+00:03:50,120 --> 00:03:53,620
+cut his internet time by over 70 percent and
+
+80
+00:03:53,620 --> 00:03:55,240
+his daydreaming by over 50.
+
+81
+00:03:55,840 --> 00:03:58,860
+Default to silence, with low pink noise or rain
+
+82
+00:03:58,860 --> 00:04:00,620
+only as a bridge you phase out.
+
+83
+00:04:01,180 --> 00:04:04,200
+Expect the itch and earworms for days to weeks,
+
+84
+00:04:04,640 --> 00:04:06,000
+and chew gum while writing.
+
+85
+00:04:06,600 --> 00:04:08,960
+Replace the hype track with a brisk five to
+
+86
+00:04:08,960 --> 00:04:11,960
+ten minute walk without audio, and run your own
+
+87
+00:04:11,960 --> 00:04:15,220
+two week test, words written or minutes on task,
+
+88
+00:04:15,620 --> 00:04:17,920
+because your sense of what helps is unreliable.
+
+89
+00:04:18,740 --> 00:04:21,320
+Moments see after something exciting happens.
+
+90
+00:04:21,920 --> 00:04:23,640
+Pre -commit to an if -then plan for good
+
+91
+00:04:23,640 --> 00:04:24,100
+news.
+
+92
+00:04:24,600 --> 00:04:27,160
+If I get exciting news, then I write one
+
+93
+00:04:27,160 --> 00:04:29,880
+line about it, add a short dehicker or word
+
+94
+00:04:29,880 --> 00:04:32,380
+of thanks if that fits me, name the next
+
+95
+00:04:32,380 --> 00:04:35,440
+concrete action and either do it or schedule it,
+
+96
+00:04:35,840 --> 00:04:38,080
+then walk five minutes without audio.
+
+97
+00:04:38,600 --> 00:04:42,820
+Converting excitement into a process step matters because imagining
+
+98
+00:04:42,820 --> 00:04:47,360
+the process improves effort while positive fantasy drains it
+
+99
+00:04:47,360 --> 00:04:50,500
+and never celebrate with music plus fantasy.
+
+100
+00:04:51,080 --> 00:04:54,480
+It is the most amplified state the evidence describes.
+
+101
+00:04:55,320 --> 00:04:57,580
+Moment D, when a success fantasy starts.
+
+102
+00:04:58,140 --> 00:05:00,960
+Give it a daily, five -minute, written home, whoop.
+
+103
+00:05:01,260 --> 00:05:02,580
+Here is a worked example.
+
+104
+00:05:03,120 --> 00:05:03,220
+Wish.
+
+105
+00:05:03,640 --> 00:05:05,200
+Ten finished scripts this month.
+
+106
+00:05:05,900 --> 00:05:06,400
+Outcome.
+
+107
+00:05:06,800 --> 00:05:07,920
+Picture the best result.
+
+108
+00:05:08,320 --> 00:05:10,600
+A channel that pays the bills for one minute
+
+109
+00:05:10,600 --> 00:05:11,040
+only.
+
+110
+00:05:11,600 --> 00:05:12,000
+Obstacle.
+
+111
+00:05:12,220 --> 00:05:12,720
+The inner one.
+
+112
+00:05:13,080 --> 00:05:15,980
+When editing gets boring, I escape into fantasy.
+
+113
+00:05:17,000 --> 00:05:17,000
+Plan.
+
+114
+00:05:17,420 --> 00:05:19,700
+If editing gets boring, then I name it.
+
+115
+00:05:19,900 --> 00:05:20,320
+Breathe.
+
+116
+00:05:20,480 --> 00:05:22,060
+And cut the next ten seconds.
+
+117
+00:05:22,060 --> 00:05:25,900
+done with another person the effect was larger so
+
+118
+00:05:25,900 --> 00:05:29,580
+review it weekly with an accountability partner stop using
+
+119
+00:05:29,580 --> 00:05:35,000
+success visualization as motivation and drop manifesting rituals positive
+
+120
+00:05:35,000 --> 00:05:39,460
+fantasies predict fewer applications lower pay and later depression
+
+121
+00:05:39,460 --> 00:05:44,360
+start reading the fantasies theme as data fame recognition
+
+122
+00:05:44,360 --> 00:05:48,240
+and competence fantasies point to needs that real life
+
+123
+00:05:48,240 --> 00:05:49,740
+is not meeting yet.
+
+124
+00:05:50,180 --> 00:05:53,180
+The real -world dose is small, shipped work that
+
+125
+00:05:53,180 --> 00:05:56,680
+gets real feedback, and when a fantasy starts outside
+
+126
+00:05:56,680 --> 00:06:00,220
+its slot, close it deliberately, write one line on
+
+127
+00:06:00,220 --> 00:06:03,040
+where it stops and leave nothing to be continued.
+
+128
+00:06:04,080 --> 00:06:06,500
+Neutral interruption fits better than self -shaming.
+
+129
+00:06:07,160 --> 00:06:10,360
+Moment E, before sleep and in idle time, keep
+
+130
+00:06:10,360 --> 00:06:11,620
+the bed for sleep only.
+
+131
+00:06:12,340 --> 00:06:14,820
+Phones and earbuds stay out of the bedroom and
+
+132
+00:06:14,820 --> 00:06:17,320
+get up if you're still awake after about twenty
+
+133
+00:06:17,320 --> 00:06:17,740
+minutes.
+
+134
+00:06:18,380 --> 00:06:20,780
+Write Tonight tomorrow's to -do lists one to two
+
+135
+00:06:20,780 --> 00:06:24,000
+hours before bed, people who did fell asleep about
+
+136
+00:06:24,000 --> 00:06:26,540
+nine minutes faster in a small study.
+
+137
+00:06:26,960 --> 00:06:29,580
+In bed, use a 15 -minute body scan which
+
+138
+00:06:29,580 --> 00:06:31,960
+shorten time to fall asleep in a trial of
+
+139
+00:06:31,960 --> 00:06:33,680
+232 adolescents.
+
+140
+00:06:34,420 --> 00:06:36,000
+Keep music away from bedtime.
+
+141
+00:06:36,500 --> 00:06:37,940
+Protect sleep for learning's sake.
+
+142
+00:06:38,360 --> 00:06:40,660
+One night without sleep cut the ability to form
+
+143
+00:06:40,660 --> 00:06:42,920
+new memories by about 40 percent.
+
+144
+00:06:42,920 --> 00:06:46,240
+moment, and pre -plan defaults for idle time, a
+
+145
+00:06:46,240 --> 00:06:49,460
+walk without audio, de -hicca, a two -minute task,
+
+146
+00:06:49,820 --> 00:06:50,980
+or talking to someone.
+
+147
+00:06:51,820 --> 00:06:53,320
+Moment F, the daily system.
+
+148
+00:06:53,880 --> 00:06:56,900
+In the morning, ten minutes of mindfulness then read
+
+149
+00:06:56,900 --> 00:06:57,840
+the day's plan.
+
+150
+00:06:58,480 --> 00:07:01,220
+At the same time, every day, a 60 -
+
+151
+00:07:01,220 --> 00:07:05,280
+to 120 -minute creation block in silence, with one
+
+152
+00:07:05,280 --> 00:07:08,580
+defined deliverable and the phone in another room.
+
+153
+00:07:08,580 --> 00:07:12,920
+Daily 20 titles or 50 raw ideas generated alone
+
+154
+00:07:12,920 --> 00:07:15,760
+and fast with selection in a separate session.
+
+155
+00:07:16,340 --> 00:07:18,960
+When learning never watch more than five to ten
+
+156
+00:07:18,960 --> 00:07:22,100
+minutes of a tutorial without stopping to reproduce it
+
+157
+00:07:22,100 --> 00:07:25,080
+and use AI as a tutor not an answer
+
+158
+00:07:25,080 --> 00:07:25,520
+machine.
+
+159
+00:07:26,100 --> 00:07:29,760
+In the evening your MD log then tomorrow's plan.
+
+160
+00:07:30,260 --> 00:07:33,660
+The weekly system Franklin style copywork on one top
+
+161
+00:07:33,660 --> 00:07:37,840
+intro, and edit deconstruction, rebuild 60 to 90 seconds,
+
+162
+00:07:38,300 --> 00:07:41,460
+and compare three editors, a peer exchange where you
+
+163
+00:07:41,460 --> 00:07:44,800
+swap and rank title and hooklists, a prediction log
+
+164
+00:07:44,800 --> 00:07:48,900
+checked against test and compare, one script section with
+
+165
+00:07:48,900 --> 00:07:51,800
+no AI at all to check the skill isn't
+
+166
+00:07:51,800 --> 00:07:52,180
+fading.
+
+167
+00:07:52,580 --> 00:07:55,340
+Two or three incubation walks with a loaded problem,
+
+168
+00:07:55,860 --> 00:07:58,660
+a WOOP review with a partner, and monthly, a
+
+169
+00:07:58,660 --> 00:08:01,740
+business experiment review, and a brand asset audit.
+
+170
+00:08:02,640 --> 00:08:05,100
+Expect a two to three month ramp, forming a
+
+171
+00:08:05,100 --> 00:08:08,100
+new daily habit took a median of 66 days.
+
+172
+00:08:08,600 --> 00:08:12,280
+Set specific, hard goals, and keep progress visible.
+
+173
+00:08:13,040 --> 00:08:14,800
+Moment G went to see a professional.
+
+174
+00:08:15,460 --> 00:08:17,800
+Urgently, if you have any thoughts of suicide or
+
+175
+00:08:17,800 --> 00:08:18,400
+self -harm.
+
+176
+00:08:18,920 --> 00:08:20,780
+And for an assessment, if you have low mood
+
+177
+00:08:20,780 --> 00:08:23,400
+or lost interest for two weeks or more, intrusive
+
+178
+00:08:23,400 --> 00:08:26,860
+thoughts or rituals that suggest OCD, lifelong in attention
+
+179
+00:08:26,860 --> 00:08:30,340
+that predates the daydreaming, episodes of losing track of
+
+180
+00:08:30,340 --> 00:08:32,400
+reality, or a history of trauma.
+
+181
+00:08:33,020 --> 00:08:35,160
+Do the same if MD is still costing you
+
+182
+00:08:35,160 --> 00:08:38,600
+deadlines or income after 4 -8 weeks of structured
+
+183
+00:08:38,600 --> 00:08:39,280
+self -help.
+
+184
+00:08:39,880 --> 00:08:43,820
+Look for a clinical psychologist or CBT therapist, ideally
+
+185
+00:08:43,820 --> 00:08:47,040
+experienced with dissociation or behavioural addictions.
+
+186
+00:08:47,700 --> 00:08:50,720
+Ask for an assessment with the MDS 16 and,
+
+187
+00:08:50,840 --> 00:08:53,240
+if possible, the structured MD interview.
+
+188
+00:08:54,080 --> 00:08:59,000
+Ask for screening for depression, anxiety, OCD, ADHD, and
+
+189
+00:08:59,000 --> 00:09:03,080
+dissociation, with MD explicitly checked against ADHD.
+
+190
+00:09:03,940 --> 00:09:08,340
+Ask for targeted treatment, CBT with mindfulness, self -monitoring,
+
+191
+00:09:08,340 --> 00:09:12,040
+and motivational work, because nonspecific therapy is ineffective.
+
+192
+00:09:12,780 --> 00:09:15,800
+Bring the papers, since many clinicians don't know the
+
+193
+00:09:15,800 --> 00:09:15,900
+them.
+
+194
+00:09:16,360 --> 00:09:18,280
+And if it matters to you, look for a
+
+195
+00:09:18,280 --> 00:09:22,220
+clinician comfortable with faith -consistent goals like cutting music.
+
+196
+00:09:22,800 --> 00:09:26,000
+No medication has trial evidence for MD itself.
+
+197
+00:09:26,760 --> 00:09:29,580
+Medication matters mainly for co -occurring conditions.
+
+198
+00:09:30,260 --> 00:09:31,580
+Here are the grades at a glance.
+
+199
+00:09:32,220 --> 00:09:32,340
+A.
+
+200
+00:09:32,560 --> 00:09:35,840
+A daily self -monitoring log, mindfulness with notice, name,
+
+201
+00:09:36,000 --> 00:09:38,520
+return, and the finding that willpower and forums alone
+
+202
+00:09:38,520 --> 00:09:39,120
+don't work.
+
+203
+00:09:39,580 --> 00:09:39,840
+B.
+
+204
+00:09:40,260 --> 00:09:43,000
+Rehearsed if then plans, whoop instead of success fantasies,
+
+205
+00:09:43,520 --> 00:09:45,440
+silence for verbal work, work, the bed for sleep
+
+206
+00:09:45,440 --> 00:09:48,240
+only, AI as a tutor, and letting peers and
+
+207
+00:09:48,240 --> 00:09:49,420
+data pick your ideas.
+
+208
+00:09:49,940 --> 00:09:50,200
+C.
+
+209
+00:09:50,380 --> 00:09:52,720
+Removing music cues entirely during work.
+
+210
+00:09:53,140 --> 00:09:53,660
+And D.
+
+211
+00:09:54,020 --> 00:09:56,680
+The excitement plan and a capped ideation slot.
+
+212
+00:09:57,260 --> 00:10:00,180
+What is the one approach the MD trial showed
+
+213
+00:10:00,180 --> 00:10:01,340
+does not work?
+
+214
+00:10:05,200 --> 00:10:07,160
+Willpower plus online forums.
+
+215
+00:10:07,720 --> 00:10:09,620
+The wait list group did not improve.
+
+216
+00:10:10,360 --> 00:10:13,020
+Mindfulness plus daily self -monitoring did.
+
+217
+00:10:13,700 --> 00:10:15,840
+Build the plan part of a whoop for your
+
+218
+00:10:15,840 --> 00:10:16,620
+music urge.
+
+219
+00:10:20,400 --> 00:10:23,680
+For example, if I reach for my earbuds during
+
+220
+00:10:23,680 --> 00:10:26,180
+work, then I put them in the other room,
+
+221
+00:10:26,540 --> 00:10:29,640
+breathe, and do one two -minute step in silence.
+
+222
+00:10:30,400 --> 00:10:33,760
+Last, a short recap quiz that mixes every chapter
+
+223
+00:10:33,760 --> 00:10:36,620
+because mixing and testing beats were reading.
+

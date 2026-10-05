@@ -1,0 +1,456 @@
+1
+00:00:00,000 --> 00:00:00,840
+Chapter 6.
+
+2
+00:00:01,320 --> 00:00:04,160
+How learning actually works and why so much of
+
+3
+00:00:04,160 --> 00:00:05,120
+it is an illusion.
+
+4
+00:00:06,680 --> 00:00:08,460
+A recall from chapter 5.
+
+5
+00:00:09,040 --> 00:00:11,340
+What are the two ways background sound breaks your
+
+6
+00:00:11,340 --> 00:00:11,840
+thinking?
+
+7
+00:00:16,120 --> 00:00:20,180
+Changing sound disrupts holding things in order and understandable
+
+8
+00:00:20,180 --> 00:00:21,960
+words compete with meaning.
+
+9
+00:00:22,800 --> 00:00:23,560
+Rap hits both.
+
+10
+00:00:24,180 --> 00:00:27,080
+A landmark review rated 10 study techniques.
+
+11
+00:00:27,620 --> 00:00:31,100
+It rated practice testing and spaced practice as high
+
+12
+00:00:31,100 --> 00:00:35,900
+utility, and rated rereading, highlighting, and summarizing as low,
+
+13
+00:00:36,320 --> 00:00:38,880
+even though those are what most learners do.
+
+14
+00:00:39,400 --> 00:00:42,100
+Later meta -analyzers put numbers on the ranking.
+
+15
+00:00:42,960 --> 00:00:46,780
+Spaced retrieval, testing yourself at intervals, beat cramming the
+
+16
+00:00:46,780 --> 00:00:50,280
+same practice, with an effect of 0 .74.
+
+17
+00:00:51,160 --> 00:00:54,420
+Self -explanation came in at 0 .55.
+
+18
+00:00:55,200 --> 00:00:58,560
+Retrieval practice, producing producing from memory at about 0
+
+19
+00:00:58,560 --> 00:01:02,920
+.5 in the lab and in 222 classroom studies,
+
+20
+00:01:03,600 --> 00:01:07,060
+interleaving, mixing types instead of blocking them at 0
+
+21
+00:01:07,060 --> 00:01:12,120
+.42 though highly variable, and generation, producing the answer
+
+22
+00:01:12,120 --> 00:01:14,880
+rather than reading it at 0 .4.
+
+23
+00:01:15,280 --> 00:01:17,600
+Rereading and highlighting sit at the bottom.
+
+24
+00:01:18,220 --> 00:01:19,720
+How far apart should you space?
+
+25
+00:01:20,260 --> 00:01:22,980
+For a one -week horizon, the best gap is
+
+26
+00:01:22,980 --> 00:01:25,940
+about 20 -40 % of how long you need
+
+27
+00:01:25,940 --> 00:01:29,200
+to remember it, falling to 5 -10 % for
+
+28
+00:01:29,200 --> 00:01:29,940
+a whole year.
+
+29
+00:01:30,480 --> 00:01:32,800
+So if you need something for a week, review
+
+30
+00:01:32,800 --> 00:01:34,420
+it after a day or two.
+
+31
+00:01:35,040 --> 00:01:38,700
+Worked examples, meaning complete expert scripts and edits, give
+
+32
+00:01:38,700 --> 00:01:40,580
+novices a large early benefit.
+
+33
+00:01:41,020 --> 00:01:44,480
+But that benefit fades and can reverse as expertise
+
+34
+00:01:44,480 --> 00:01:44,980
+grows.
+
+35
+00:01:45,640 --> 00:01:49,000
+So study complete expert work early, then shift toward
+
+36
+00:01:49,000 --> 00:01:51,080
+producing your own as you improve.
+
+37
+00:01:51,720 --> 00:01:54,900
+And matching teaching to learning styles has no support,
+
+38
+00:01:55,380 --> 00:01:58,120
+the few properly designed tests contradicted it.
+
+39
+00:01:58,540 --> 00:02:02,200
+For skills rather than facts, retrieval means producing from
+
+40
+00:02:02,200 --> 00:02:05,440
+memory, write a hook without looking at the reference,
+
+41
+00:02:06,020 --> 00:02:09,880
+rebuild a transition with the tutorial closed, then compare
+
+42
+00:02:09,880 --> 00:02:11,680
+your version with the original.
+
+43
+00:02:12,260 --> 00:02:14,620
+How smoothly learning goes is a poor guide to
+
+44
+00:02:14,620 --> 00:02:15,560
+how much you learn.
+
+45
+00:02:16,320 --> 00:02:18,620
+Conditions that boost what you can do right now,
+
+46
+00:02:18,840 --> 00:02:22,200
+like cramming, blocking and rereading, differ from those that
+
+47
+00:02:22,200 --> 00:02:27,420
+build durable learning, like spacing, interleaving, testing, and generating.
+
+48
+00:02:28,240 --> 00:02:31,760
+Learners even rated cramming as more effective than interleaving
+
+49
+00:02:31,760 --> 00:02:34,620
+after their own test scores showed the opposite.
+
+50
+00:02:35,280 --> 00:02:36,640
+The evidence is consistent.
+
+51
+00:02:37,220 --> 00:02:40,900
+A fluent, polished lecturer raised students' confidence, but not
+
+52
+00:02:40,900 --> 00:02:41,580
+their scores.
+
+53
+00:02:42,420 --> 00:02:45,660
+Physics students learned more from active instruction, but felt
+
+54
+00:02:45,660 --> 00:02:46,540
+they learned less.
+
+55
+00:02:47,160 --> 00:02:52,160
+And across 225 studies, active learning raised exam scores
+
+56
+00:02:52,160 --> 00:02:55,480
+with students in traditional lectures one and a half
+
+57
+00:02:55,480 --> 00:02:57,160
+times more likely to fail.
+
+58
+00:02:57,740 --> 00:03:01,280
+Most directly relevant to you, across six experiments with
+
+59
+00:03:01,280 --> 00:03:06,260
+2 ,225 people repeatedly watching someone else perform a
+
+60
+00:03:06,260 --> 00:03:09,320
+skill raised people's belief that they could do it
+
+61
+00:03:09,320 --> 00:03:11,620
+without improving their actual ability.
+
+62
+00:03:12,120 --> 00:03:15,060
+Only a brief hands -on attempt reduced the illusion.
+
+63
+00:03:15,600 --> 00:03:18,680
+The press release was titled, Watching How to Videos
+
+64
+00:03:18,680 --> 00:03:22,340
+on YouTube Gives People a False Sense of Expertise.
+
+65
+00:03:22,640 --> 00:03:24,880
+AI has the same trap built in.
+
+66
+00:03:25,200 --> 00:03:27,780
+In a field experiment with about 1 ,000 high
+
+67
+00:03:27,780 --> 00:03:32,540
+school math students, unrestricted GPT -4 raised practice performance
+
+68
+00:03:32,540 --> 00:03:34,060
+by 48 percent.
+
+69
+00:03:34,600 --> 00:03:38,180
+But once access was removed, those students scored 17
+
+70
+00:03:38,180 --> 00:03:41,040
+percent worse than students who never had it.
+
+71
+00:03:41,440 --> 00:03:44,620
+A tutor version that gave hints instead of answers
+
+72
+00:03:44,620 --> 00:03:46,420
+largely removed the harm.
+
+73
+00:03:46,980 --> 00:03:50,060
+In Anthropic's own trial with 52 engineers learning a
+
+74
+00:03:50,060 --> 00:03:53,720
+new code library, the AI -assisted group averaged 50
+
+75
+00:03:53,720 --> 00:03:56,880
+% on a follow -up quiz against 67 %
+
+76
+00:03:56,880 --> 00:03:58,700
+for those who coded by hand.
+
+77
+00:03:59,260 --> 00:04:02,520
+The engineers who kept their skills asked conceptual questions
+
+78
+00:04:02,520 --> 00:04:06,100
+and fixed errors themselves rather than handing over the
+
+79
+00:04:06,100 --> 00:04:06,440
+work.
+
+80
+00:04:06,440 --> 00:04:09,980
+work, and in a survey of 319 knowledge workers,
+
+81
+00:04:10,440 --> 00:04:13,860
+more confidence in AI went with less critical thinking.
+
+82
+00:04:14,420 --> 00:04:18,300
+Learning design also controls mind -wandering, which matters most
+
+83
+00:04:18,300 --> 00:04:18,840
+for you.
+
+84
+00:04:19,380 --> 00:04:22,980
+In a 21 -minute video lecture, brief tests after
+
+85
+00:04:22,980 --> 00:04:26,480
+each segment cut mind -wandering from about 40 %
+
+86
+00:04:26,480 --> 00:04:30,840
+to 19 % and raised final scores from 68
+
+87
+00:04:30,840 --> 00:04:32,300
+to 90%.
+
+88
+00:04:32,300 --> 00:04:36,560
+Across 73 studies, mind -wandering in the moment predicted
+
+89
+00:04:36,560 --> 00:04:40,940
+poorer reading comprehension, while a general tendency to daydream
+
+90
+00:04:40,940 --> 00:04:42,720
+barely predicted anything.
+
+91
+00:04:43,360 --> 00:04:45,800
+The way you set up a session can outweigh
+
+92
+00:04:45,800 --> 00:04:47,360
+your daydreaming tendency.
+
+93
+00:04:48,060 --> 00:04:51,380
+Heavy short -form video use correlates with poorer attention
+
+94
+00:04:51,380 --> 00:04:56,140
+and weaker impulse control across 71 studies, though which
+
+95
+00:04:56,140 --> 00:04:58,040
+causes which is not established.
+
+96
+00:04:58,040 --> 00:05:01,880
+and switching away from an unfinished task leaves attention
+
+97
+00:05:01,880 --> 00:05:04,740
+residue that drags on the next one.
+
+98
+00:05:05,200 --> 00:05:07,060
+Finishing a unit creates closure.
+
+99
+00:05:07,540 --> 00:05:09,000
+Notice the common thread.
+
+100
+00:05:09,600 --> 00:05:14,260
+Watching, polish, fluency, and AI -generated answers all deliver
+
+101
+00:05:14,260 --> 00:05:15,560
+the feeling of progress.
+
+102
+00:05:16,060 --> 00:05:19,000
+That is exactly what a success fantasy delivers.
+
+103
+00:05:19,540 --> 00:05:22,900
+Which two techniques top the evidence ranking and which
+
+104
+00:05:22,900 --> 00:05:24,560
+popular ones sit at the bottom.
+
+105
+00:05:28,420 --> 00:05:32,000
+Testing yourself and spacing your practice are at the
+
+106
+00:05:32,000 --> 00:05:36,380
+top, rereading, highlighting, and summarizing are at the bottom.
+
+107
+00:05:36,960 --> 00:05:40,100
+In the GPT -4 study, what happened once the
+
+108
+00:05:40,100 --> 00:05:43,220
+AI was taken away and what fixed it?
+
+109
+00:05:46,840 --> 00:05:50,580
+Students scored 17 % worse than those who never
+
+110
+00:05:50,580 --> 00:05:51,200
+had it.
+
+111
+00:05:51,560 --> 00:05:55,040
+A tutor that gave hints instead of answers largely
+
+112
+00:05:55,040 --> 00:05:56,260
+removed the harm.
+
+113
+00:05:56,260 --> 00:06:00,140
+Next, how skill is actually built, and why practice
+
+114
+00:06:00,140 --> 00:06:02,240
+hours alone explain so little.
+
