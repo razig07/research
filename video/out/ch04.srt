@@ -1,0 +1,692 @@
+1
+00:00:00,000 --> 00:00:03,800
+Chapter four, what the loop costs, why success fantasies
+
+2
+00:00:03,800 --> 00:00:07,120
+are the costliest kind and how your pattern lines
+
+3
+00:00:07,120 --> 00:00:08,200
+up with the evidence.
+
+4
+00:00:09,420 --> 00:00:13,020
+A recall from chapter three, what belief drives the
+
+5
+00:00:13,020 --> 00:00:13,500
+escape.
+
+6
+00:00:17,480 --> 00:00:19,960
+That the fantasy will repair your mood.
+
+7
+00:00:20,460 --> 00:00:23,400
+In fact, MD is followed by a worse mood
+
+8
+00:00:23,400 --> 00:00:24,180
+the next day.
+
+9
+00:00:24,840 --> 00:00:26,600
+Time is the most visible cost.
+
+10
+00:00:26,600 --> 00:00:30,560
+people with MD report spending 57 % of their
+
+11
+00:00:30,560 --> 00:00:34,300
+waking hours in daydreams against 16 % for people
+
+12
+00:00:34,300 --> 00:00:35,360
+without it.
+
+13
+00:00:35,780 --> 00:00:40,000
+Diary participants reported 4 .5 hours of active daydreaming
+
+14
+00:00:40,000 --> 00:00:41,000
+in a single day.
+
+15
+00:00:41,620 --> 00:00:44,720
+These are self -estimates but the gap is enormous.
+
+16
+00:00:45,700 --> 00:00:46,520
+Focus pays next.
+
+17
+00:00:47,160 --> 00:00:49,720
+People with MD report a reduced ability to sustain
+
+18
+00:00:49,720 --> 00:00:52,260
+attention outward because of the lure of the inner
+
+19
+00:00:52,260 --> 00:00:52,700
+world.
+
+20
+00:00:53,220 --> 00:00:56,040
+One diary participants said, I often feel as if
+
+21
+00:00:56,040 --> 00:00:58,540
+I just cannot turn off my mind, whether because
+
+22
+00:00:58,540 --> 00:01:01,140
+I need to concentrate in class, go to sleep,
+
+23
+00:01:01,500 --> 00:01:02,720
+or just find some peace.
+
+24
+00:01:03,580 --> 00:01:06,120
+Summer stresses that during MD the mind is not
+
+25
+00:01:06,120 --> 00:01:06,540
+drifting.
+
+26
+00:01:07,020 --> 00:01:08,920
+It is focused on creating scenes.
+
+27
+00:01:09,420 --> 00:01:12,060
+It competes directly with your work for the same
+
+28
+00:01:12,060 --> 00:01:13,120
+deliberate attention.
+
+29
+00:01:13,700 --> 00:01:17,420
+Across 88 samples in the general population, more mind
+
+30
+00:01:17,420 --> 00:01:21,280
+wandering meant worse task performance, and the cost was
+
+31
+00:01:21,280 --> 00:01:23,720
+more pronounced for more complex tasks.
+
+32
+00:01:24,620 --> 00:01:28,840
+Scripting, editing decisions and business strategy are exactly those
+
+33
+00:01:28,840 --> 00:01:29,980
+complex tasks.
+
+34
+00:01:30,620 --> 00:01:32,880
+Work and income suffer in clinical samples.
+
+35
+00:01:33,320 --> 00:01:37,220
+In summer's music study, 46 % were unemployed and
+
+36
+00:01:37,220 --> 00:01:39,360
+fewer than 15 % were in a relationship.
+
+37
+00:01:39,960 --> 00:01:43,240
+During lockdown, MD was linked to impaired social, family
+
+38
+00:01:43,240 --> 00:01:44,260
+and work activities.
+
+39
+00:01:44,760 --> 00:01:48,380
+But honestly, no study has objectively measured output like
+
+40
+00:01:48,380 --> 00:01:50,820
+words written or hours of focused work.
+
+41
+00:01:51,340 --> 00:01:54,140
+In one group of medical students, MD was only
+
+42
+00:01:54,140 --> 00:01:57,820
+weakly linked to procrastination and their grades were unaffected.
+
+43
+00:01:58,660 --> 00:02:01,960
+Mood carries the strongest evidence on direction and at
+
+44
+00:02:01,960 --> 00:02:04,440
+the severe end, there is a signal to take
+
+45
+00:02:04,440 --> 00:02:05,220
+seriously.
+
+46
+00:02:05,960 --> 00:02:10,680
+Among 39 people with interview -diagnosed MD, 28 %
+
+47
+00:02:10,680 --> 00:02:12,340
+had attempted suicide.
+
+48
+00:02:12,860 --> 00:02:17,340
+In a US panel of 2 ,512 adults, people
+
+49
+00:02:17,340 --> 00:02:20,960
+flagged for suspected MD were more than twice as
+
+50
+00:02:20,960 --> 00:02:22,900
+likely to have made a recent attempt.
+
+51
+00:02:23,720 --> 00:02:26,880
+These are signals, not predictions about any one person.
+
+52
+00:02:27,360 --> 00:02:30,240
+If thoughts like that ever come, seek help straight
+
+53
+00:02:30,240 --> 00:02:30,700
+away.
+
+54
+00:02:31,440 --> 00:02:32,380
+Sleep is the surprise.
+
+55
+00:02:32,980 --> 00:02:36,320
+People with MD widely report that daydreaming interferes with
+
+56
+00:02:36,320 --> 00:02:39,280
+sleep, but in a pre -registered diary study of
+
+57
+00:02:39,280 --> 00:02:43,600
+126 people, MD did not predict worse sleep the
+
+58
+00:02:43,600 --> 00:02:44,360
+following night.
+
+59
+00:02:44,360 --> 00:02:48,700
+Sleep loss, though, did predict more ordinary mind wandering
+
+60
+00:02:48,700 --> 00:02:52,020
+the next day, so protecting sleep still protects your
+
+61
+00:02:52,020 --> 00:02:52,480
+focus.
+
+62
+00:02:53,400 --> 00:02:55,580
+Shame and isolation reinforce each other.
+
+63
+00:02:56,320 --> 00:02:59,800
+Researchers call daydreaming and social isolation a two -way
+
+64
+00:02:59,800 --> 00:03:00,220
+street.
+
+65
+00:03:00,900 --> 00:03:04,720
+Daydreaming leads to withdrawal, withdrawal to loneliness and shame,
+
+66
+00:03:05,160 --> 00:03:07,160
+and those to more daydreaming.
+
+67
+00:03:07,460 --> 00:03:11,840
+During lockdown, probable sufferers even had fewer online relationships.
+
+68
+00:03:11,840 --> 00:03:15,280
+For a creator, the most relevant link is social
+
+69
+00:03:15,280 --> 00:03:15,720
+media.
+
+70
+00:03:16,340 --> 00:03:19,880
+MD's strongest online link was with problematic social media
+
+71
+00:03:19,880 --> 00:03:23,380
+use, perhaps because social media lets people manage their
+
+72
+00:03:23,380 --> 00:03:25,720
+identity in line with an idealized self.
+
+73
+00:03:26,380 --> 00:03:31,160
+In 437 Hungarians, mostly men, MD went together with
+
+74
+00:03:31,160 --> 00:03:33,580
+celebrity worship and a desire for fame.
+
+75
+00:03:34,220 --> 00:03:37,240
+All of this is correlational, and nobody has studied
+
+76
+00:03:37,240 --> 00:03:39,840
+short -form video and MD directly.
+
+77
+00:03:39,840 --> 00:03:45,140
+Now success fantasies, Gabriel Ottingen's research separates two things
+
+78
+00:03:45,140 --> 00:03:45,960
+that feel alike.
+
+79
+00:03:46,840 --> 00:03:49,220
+Positive expectations are a judgment that you are likely
+
+80
+00:03:49,220 --> 00:03:49,980
+to succeed.
+
+81
+00:03:50,620 --> 00:03:54,420
+Positive fantasies are vivid, pleasant images of the desired
+
+82
+00:03:54,420 --> 00:03:54,960
+future.
+
+83
+00:03:55,660 --> 00:03:58,760
+Expectations predicted high effort and good results.
+
+84
+00:03:59,540 --> 00:04:03,340
+Fantasies predicted the reverse, less effort and worse results.
+
+85
+00:04:04,020 --> 00:04:07,600
+In one study, 83 German students rated their fantasies
+
+86
+00:04:07,600 --> 00:04:10,020
+about graduating and landing a job.
+
+87
+00:04:10,760 --> 00:04:13,780
+Two years later, those with the most positive fantasies
+
+88
+00:04:13,780 --> 00:04:18,020
+had sent fewer applications, received fewer offers, and earned
+
+89
+00:04:18,020 --> 00:04:18,880
+lower salaries.
+
+90
+00:04:19,640 --> 00:04:23,200
+The same pattern held for romantic crushes, recovery from
+
+91
+00:04:23,200 --> 00:04:25,160
+hip surgery, and weight loss.
+
+92
+00:04:25,800 --> 00:04:29,860
+Experiments show how positive fantasy lowered systolic blood pressure,
+
+93
+00:04:30,240 --> 00:04:33,600
+a marker of physical energy, by 1 .73 points
+
+94
+00:04:33,600 --> 00:04:35,960
+while a fantasy raised it slightly.
+
+95
+00:04:36,900 --> 00:04:39,620
+Students who fantasized about an ideal week felt less
+
+96
+00:04:39,620 --> 00:04:42,220
+energized right away and got less done a week
+
+97
+00:04:42,220 --> 00:04:42,640
+later.
+
+98
+00:04:43,260 --> 00:04:46,900
+In the researchers words positive fantasies let people mentally
+
+99
+00:04:46,900 --> 00:04:50,400
+consummate a desired future so effort feels unnecessary.
+
+100
+00:04:51,100 --> 00:04:53,240
+The drain was bigger when the need was more
+
+101
+00:04:53,240 --> 00:04:53,620
+pressing.
+
+102
+00:04:54,200 --> 00:04:55,760
+The mood effect also flips.
+
+103
+00:04:56,660 --> 00:04:59,960
+Positive fantasies went with fewer depressive symptoms at the
+
+104
+00:04:59,960 --> 00:05:03,740
+same moment but predicted more depressive symptoms up to
+
+105
+00:05:03,740 --> 00:05:06,840
+seven months later, partly through lower grades.
+
+106
+00:05:07,680 --> 00:05:10,520
+Fantasies also bias you toward looking at a goal's
+
+107
+00:05:10,520 --> 00:05:14,300
+upsides over its downsides, which leads to worse decisions.
+
+108
+00:05:15,060 --> 00:05:16,880
+There is an evidence -based remedy.
+
+109
+00:05:17,580 --> 00:05:21,960
+Mental contrasting with implementation intentions, known as WOOP, pairs
+
+110
+00:05:21,960 --> 00:05:24,060
+the wish with the obstacle and a plan.
+
+111
+00:05:24,820 --> 00:05:25,040
+Wish.
+
+112
+00:05:25,480 --> 00:05:25,960
+Outcome.
+
+113
+00:05:26,320 --> 00:05:26,700
+Obstacle.
+
+114
+00:05:27,040 --> 00:05:27,140
+Plan.
+
+115
+00:05:27,700 --> 00:05:31,480
+Across 21 studies and nearly 16 ,000 people, it
+
+116
+00:05:31,480 --> 00:05:35,100
+improved goal attainment with a small but reliable effect,
+
+117
+00:05:35,580 --> 00:05:37,980
+and a larger one when done with another person.
+
+118
+00:05:38,780 --> 00:05:42,640
+Ottingen's participants did not have MD, so applying this
+
+119
+00:05:42,640 --> 00:05:45,540
+to MD is an inference, but a close one.
+
+120
+00:05:46,040 --> 00:05:48,380
+We will build a full whoop in chapter 9.
+
+121
+00:05:48,980 --> 00:05:51,180
+Your pattern includes excitement as a trigger.
+
+122
+00:05:51,680 --> 00:05:54,320
+No study has tested this, so treat it as
+
+123
+00:05:54,320 --> 00:05:55,500
+plausible but unproven.
+
+124
+00:05:56,200 --> 00:05:58,620
+Good news, like a view spike or a new
+
+125
+00:05:58,620 --> 00:06:01,780
+lead, speed, brings excitement and an expected reward.
+
+126
+00:06:02,420 --> 00:06:06,020
+The fantasy elaborates the reward, music lifts it further,
+
+127
+00:06:06,500 --> 00:06:08,700
+and you consume the success in your head.
+
+128
+00:06:09,120 --> 00:06:11,680
+Energy for the real next step drops, and that
+
+129
+00:06:11,680 --> 00:06:15,020
+last link is the only one with experimental support.
+
+130
+00:06:15,500 --> 00:06:18,720
+In favor of the idea, strong emotion of either
+
+131
+00:06:18,720 --> 00:06:22,100
+kind pulls thought inward, and people with MD score
+
+132
+00:06:22,100 --> 00:06:23,900
+high on reward sensitivity.
+
+133
+00:06:24,820 --> 00:06:28,800
+Against it, in diaries, positive emotion did not predict
+
+134
+00:06:28,800 --> 00:06:30,080
+next -day MD.
+
+135
+00:06:30,840 --> 00:06:33,340
+Put together, your pattern lines up with the evidence
+
+136
+00:06:33,340 --> 00:06:34,740
+almost point -for -point.
+
+137
+00:06:35,300 --> 00:06:38,680
+It starts when work gets uncomfortable, which matches the
+
+138
+00:06:38,680 --> 00:06:41,520
+criteria and the procrastination experiments.
+
+139
+00:06:42,160 --> 00:06:45,260
+You use music to amplify it as 36 of
+
+140
+00:06:45,260 --> 00:06:47,820
+41 people in the music study described.
+
+141
+00:06:48,460 --> 00:06:51,780
+The session gets ruined because episodes run long.
+
+142
+00:06:52,200 --> 00:06:54,180
+It is active when you are not working too,
+
+143
+00:06:54,500 --> 00:06:56,840
+which fits a stable, trait -like pattern.
+
+144
+00:06:57,440 --> 00:07:00,500
+Excitement as a trigger is plausible but untested.
+
+145
+00:07:01,480 --> 00:07:04,500
+Success fantasies carry the most cost for someone building
+
+146
+00:07:04,500 --> 00:07:05,060
+a business.
+
+147
+00:07:05,680 --> 00:07:09,200
+And bedtime and idle time are prime territory because
+
+148
+00:07:09,200 --> 00:07:10,540
+solitude feeds it.
+
+149
+00:07:10,880 --> 00:07:13,240
+A close match but not a diagnosis.
+
+150
+00:07:13,920 --> 00:07:14,680
+Two cautions.
+
+151
+00:07:15,200 --> 00:07:17,600
+A close match to the criteria is not a
+
+152
+00:07:17,600 --> 00:07:22,160
+diagnosis because self -screening over -identifies MD by around
+
+153
+00:07:22,160 --> 00:07:24,240
+40 % in population studies.
+
+154
+00:07:25,020 --> 00:07:27,620
+And the conditions that most often travel with MD,
+
+155
+00:07:28,280 --> 00:07:34,400
+inattentive ADHD, anxiety, depression, and obsessive compulsive symptoms are
+
+156
+00:07:34,400 --> 00:07:37,080
+worth getting checked by a professional if any of
+
+157
+00:07:37,080 --> 00:07:38,200
+them sound familiar.
+
+158
+00:07:38,860 --> 00:07:42,200
+What is the difference between a positive expectation and
+
+159
+00:07:42,200 --> 00:07:45,600
+a positive fantasy and which one predicts effort?
+
+160
+00:07:49,620 --> 00:07:52,220
+An expectation is a judgment that you are likely
+
+161
+00:07:52,220 --> 00:07:53,000
+to succeed.
+
+162
+00:07:53,620 --> 00:07:56,360
+A fantasy is a vivid image of the dream
+
+163
+00:07:56,360 --> 00:07:56,960
+outcome.
+
+164
+00:07:57,840 --> 00:07:59,320
+Expectations predict effort.
+
+165
+00:08:00,020 --> 00:08:01,320
+Fantasies drain it.
+
+166
+00:08:01,720 --> 00:08:04,380
+Many people with MD say it wrecks their sleep.
+
+167
+00:08:04,900 --> 00:08:07,160
+What did the diary study actually find?
+
+168
+00:08:11,020 --> 00:08:14,180
+MD did not predict worse sleep the next night,
+
+169
+00:08:14,600 --> 00:08:17,640
+but poor sleep predicted more mind -wandering the next
+
+170
+00:08:17,640 --> 00:08:18,060
+day.
+
+171
+00:08:18,960 --> 00:08:19,640
+Next, your playlist.
+
+172
+00:08:20,280 --> 00:08:23,660
+What funk, hardstyle, rap, sped up, and slowed edits
+
+173
+00:08:23,660 --> 00:08:26,960
+actually do to your focus and to your daydreams.
+
