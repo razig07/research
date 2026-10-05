@@ -10,3 +10,6 @@ out/.*/
 out/concat.txt
 out/chapters.txt
 out/full.mp4
+out/part*.mp4
+out/concat_*.txt
+out/chapters_*.txt
