@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Join chapter MP4s into out/full.mp4 with chapter markers and a soft subtitle track."""
 import json, subprocess, os, sys
-V = os.path.dirname(os.path.dirname(os.path.abspath(__file__))); O = f'{V}/out'
+V = os.path.dirname(os.path.dirname(os.path.abspath(__file__))); O = os.environ.get('OUTDIR', f'{V}/out')
 A, Z, NAME = (int(sys.argv[1]), int(sys.argv[2]), sys.argv[3]) if len(sys.argv) > 3 else (0, 10, 'full')
 chs = [f'ch{i:02d}' for i in range(A, Z + 1) if os.path.exists(f'{O}/ch{i:02d}.mp4')]
 durs = [float(subprocess.check_output(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', f'{O}/{c}.mp4']).decode()) for c in chs]

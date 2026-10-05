@@ -224,11 +224,14 @@ for si, sc in enumerate(spec['scenes']):
     svg = f'<svg class="rough" viewBox="0 0 1280 720" data-shapes="{esc(json.dumps(S.shapes))}"></svg>' if S.shapes else ''
     out.append(f'<div id="sc{si}" class="clip scene" data-start="{S.st:.3f}" data-duration="{S.du:.3f}" data-track-index="0">{svg}{pre}{"".join(S.html)}</div>'); miss += S.miss
 tot = TM['total']
-doc = (f'<!doctype html>\n<html><head><meta charset="utf-8"><title>{esc(spec.get("label", ch))}</title><link rel="stylesheet" href="theme.css"></head>\n<body>\n'
-       f'<div id="root" data-composition-id="root" data-start="0" data-duration="{tot:.3f}" data-width="1280" data-height="720">\n'
-       f'<audio id="vo" src="vo.wav" data-start="0" data-duration="{tot:.3f}" data-track-index="1"></audio>\n<div class="chlabel">{esc(spec.get("label", ""))}</div>\n'
+SC = float(os.environ.get('SCALE', '1')); W_, H_ = int(1280 * SC), int(720 * SC)
+XS = (f'<style>html,body{{width:{W_}px;height:{H_}px}}#root{{width:{W_}px!important;height:{H_}px!important;background-size:{32 * SC:.0f}px {32 * SC:.0f}px!important;background-image:radial-gradient(#ddd3c0 {1.2 * SC:.1f}px,transparent {1.4 * SC:.1f}px)!important}}#stage{{position:absolute;left:0;top:0;width:1280px;height:720px;transform:scale({SC});transform-origin:0 0}}</style>') if SC != 1 else ''
+ST0, ST1 = ('<div id="stage">', '</div>\n') if SC != 1 else ('', '')
+doc = (f'<!doctype html>\n<html><head><meta charset="utf-8"><title>{esc(spec.get("label", ch))}</title><link rel="stylesheet" href="theme.css">{XS}</head>\n<body>\n'
+       f'<div id="root" data-composition-id="root" data-start="0" data-duration="{tot:.3f}" data-width="{W_}" data-height="{H_}">\n'
+       f'<audio id="vo" src="vo.wav" data-start="0" data-duration="{tot:.3f}" data-track-index="1"></audio>\n{ST0}<div class="chlabel">{esc(spec.get("label", ""))}</div>\n'
        f'<div class="prog" data-anim="prog" data-at="0" data-d="{tot:.3f}"></div>\n' + '\n'.join(out) +
-       '\n</div>\n<script src="gsap.min.js"></script><script src="rough.js"></script><script src="engine.js"></script>\n</body></html>\n')
+       '\n' + ST1 + '</div>\n<script src="gsap.min.js"></script><script src="rough.js"></script><script src="engine.js"></script>\n</body></html>\n')
 open(f'{B}/index.html', 'w').write(doc)
 NM = f'{V}/node_modules'; os.makedirs(f'{B}/fonts', exist_ok=True)
 for s, d in [(f'{NM}/gsap/dist/gsap.min.js', 'gsap.min.js'), (f'{NM}/roughjs/bundled/rough.js', 'rough.js'), (f'{V}/engine/engine.js', 'engine.js'), (f'{V}/engine/theme.css', 'theme.css'),
