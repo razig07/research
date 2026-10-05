@@ -17,3 +17,6 @@ out/full_video.mp4
 out/*.m4a
 out/v.mp4
 out1080/
+site/dist/
+site/cut.log
+learning_site.zip
