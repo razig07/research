@@ -5,3 +5,5 @@ build/
 out/*.log
 out/test.*
 qa/
+out/work-*/
+out/.*/
