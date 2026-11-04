@@ -39,12 +39,16 @@ def note(sc):
     elif t == 'steps': x = ' · '.join(((str(i[0]) + ' ') if not str(i[0]).startswith('i:') else '') + cl(i[1]) for i in sc['items'])
     else: x = ''
     return {'h': sc.get('head'), 'x': x.strip()}
-only = set(sys.argv[1:]); out, quizzes, chapters, total = [], [], [], 0
-for c in range(11):
+args = sys.argv[1:]; chs_only = None
+if args[:1] == ['--chapters']: chs_only = {int(x) for x in args[1].split(',')}; args = args[2:]
+only = set(args); out, quizzes, chapters, total = [], [], [], 0
+NCH = len([f for f in os.listdir(f'{V}/script') if re.match(r'ch\d\d\.json$', f)])
+for c in range(NCH):
     sp = json.load(open(f'{V}/script/ch{c:02d}.json')); chapters.append(sp['label'])
     for i, sc in enumerate(sp['scenes']):
         if sc['type'] == 'quiz': quizzes.append({'ch': c, 'i': i, 'q': sc.get('q') or cl(sc['say']), 'a': sc.get('a') or cl(sc['sayA']), 'full': cl(sc['sayA'])})
 for lid, c, rs, title in L:
+    if chs_only is not None and c not in chs_only: continue
     ch = f'ch{c:02d}'; sp = json.load(open(f'{V}/script/{ch}.json'))['scenes']; tm = json.load(open(f'{V}/build/{ch}/timing.json'))['scenes']
     words = json.load(open(f'{V}/build/{ch}/vo.words.json'))['words']
     idx = [i for i in rng(rs) if sp[i]['type'] != 'quiz']; groups = []
@@ -75,5 +79,7 @@ for lid, c, rs, title in L:
     sz = os.path.getsize(clip) / 1e6 if os.path.exists(clip) else 0.0; total += sz
     out.append({'id': lid, 'ch': c, 'title': title, 'dur': round(o, 1), 'scenes': scenes, 'cues': cues})
     print(f'{lid} expect={o:.1f}s real={real:.1f}s {sz:.1f}MB{"  MISMATCH" if abs(real - o) > 0.3 else ""}', flush=True)
+if chs_only is not None and os.path.exists(f'{SITE}/lessons.json'):
+    new_ids = {x['id'] for x in out}; out = sorted([x for x in json.load(open(f'{SITE}/lessons.json'))['lessons'] if x['id'] not in new_ids] + out, key=lambda x: x['id'])
 json.dump({'chapters': chapters, 'lessons': out, 'quizzes': quizzes}, open(f'{SITE}/lessons.json', 'w'), ensure_ascii=False)
 print(f'TOTAL {len(out)} lessons, {sum(x["dur"] for x in out) / 60:.1f} min, {total:.0f} MB, {len(quizzes)} original quizzes')
