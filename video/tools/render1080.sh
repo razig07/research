@@ -2,6 +2,7 @@
 # Re-render chapters at 1920x1080 (layout scaled 1.5x, vector-sharp). Reuses cached TTS + whisper timing.
 cd /home/user/research/video
 export HYPERFRAMES_BROWSER_PATH=$(ls -d /opt/pw-browsers/chromium_headless_shell-*/chrome-*/{headless_shell,chrome-headless-shell} 2>/dev/null | head -1)
+export HYPERFRAMES_RENDER_DETACHED=1  # keep rendering after the launching shell exits
 mkdir -p out1080; exec 9>/tmp/hf-pipeline.lock; flock 9
 for ch in "$@"; do
   t0=$(date +%s); SCALE=1.5 python3 tools/build.py $ch >/dev/null || { echo "FAIL build $ch"; continue; }

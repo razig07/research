@@ -2,6 +2,7 @@
 # usage: tools/pipeline.sh ch01 [ch02 ...]   (serialized with flock; logs to out/pipeline.log)
 cd /home/user/research/video
 export HYPERFRAMES_BROWSER_PATH=$(ls -d /opt/pw-browsers/chromium_headless_shell-*/chrome-*/{headless_shell,chrome-headless-shell} 2>/dev/null | head -1)
+export HYPERFRAMES_RENDER_DETACHED=1  # keep rendering after the launching shell exits
 exec 9>/tmp/hf-pipeline.lock; flock 9
 for ch in "$@"; do
   t0=$(date +%s); echo "== $ch start $(date +%T)"
