@@ -2,7 +2,7 @@
 const path = require('path'); let pptr; try { pptr = require('puppeteer-core') } catch (e) { pptr = require(require('child_process').execSync('find ' + __dirname + '/../node_modules -maxdepth 4 -type d -name puppeteer-core | head -1').toString().trim()) }
 (async () => {
   const dir = process.argv[2] || path.resolve(__dirname, '../site/dist'), url = 'file://' + dir + '/index.html';
-  const b = await pptr.launch({ executablePath: '/opt/pw-browsers/chromium-1194/chrome-linux/chrome', args: ['--no-sandbox', '--autoplay-policy=no-user-gesture-required'], headless: true });
+  const b = await pptr.launch({ executablePath: '/opt/pw-browsers/chromium', args: ['--no-sandbox', '--autoplay-policy=no-user-gesture-required'], headless: true });
   const p = await b.newPage(); await p.setViewport({ width: 1280, height: 900 }); const errs = [];
   p.on('pageerror', e => errs.push('pageerror: ' + e.message)); p.on('console', m => { if (m.type() === 'error') errs.push('console: ' + m.text()) });
   await p.goto(url + '#/home'); await new Promise(r => setTimeout(r, 800));
