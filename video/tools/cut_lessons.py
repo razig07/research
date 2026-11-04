@@ -16,7 +16,10 @@ L = [('L00', 0, '0-3', 'How to use this course'),
  ('L32', 8, '0,2-5', 'Ideation'), ('L33', 8, '6-9', 'Scripting and hooks'), ('L34', 8, '10-12', 'AI prompting'), ('L35', 8, '13-15', 'Editing, brand, business'), ('L36', 8, '16-18', 'Imagination in a container'),
  ('L37', 9, '0,2-3', 'Grades and the trial'), ('L38', 9, '4-7', '(a) When work gets uncomfortable'), ('L39', 9, '8-9', '(b) Music and (c) excitement'), ('L40', 9, '10-11', '(d) Success fantasies'),
  ('L41', 9, '12', '(e) Sleep and idle time'), ('L42', 9, '13-14', '(f) Daily and weekly system'), ('L43', 9, '15-17', '(g) Getting help, and the grades'),
- ('L44', 10, '0,8-11', 'The thread through everything')]
+ ('L44', 10, '0,8-11', 'The thread through everything'),
+ ('L45', 11, '0,2-6', "What the research can and can't say"), ('L46', 11, '7-9', 'Distractions, and forgiven thoughts'), ('L47', 11, '10-12', 'Seek refuge, then occupy yourself'),
+ ('L48', 11, '13-15', "Wishful thinking and 'if only'"), ('L49', 11, '16-19', 'Idle time, consistency, recitation'), ('L50', 11, '20-22', 'Anchors, urges and bedtime'),
+ ('L51', 11, '23-25', 'Two risks, and learning like a hafiz')]
 def rng(s):
     o = []
     for p in s.split(','): a, _, b = p.partition('-'); o += list(range(int(a), int(b or a) + 1))
