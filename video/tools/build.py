@@ -236,6 +236,7 @@ open(f'{B}/index.html', 'w').write(doc)
 NM = f'{V}/node_modules'; os.makedirs(f'{B}/fonts', exist_ok=True)
 for s, d in [(f'{NM}/gsap/dist/gsap.min.js', 'gsap.min.js'), (f'{NM}/roughjs/bundled/rough.js', 'rough.js'), (f'{V}/engine/engine.js', 'engine.js'), (f'{V}/engine/theme.css', 'theme.css'),
              (f'{NM}/@fontsource/caveat/files/caveat-latin-400-normal.woff2', 'fonts/caveat-400.woff2'), (f'{NM}/@fontsource/caveat/files/caveat-latin-700-normal.woff2', 'fonts/caveat-700.woff2'),
-             (f'{NM}/@fontsource/inter/files/inter-latin-400-normal.woff2', 'fonts/inter-400.woff2'), (f'{NM}/@fontsource/inter/files/inter-latin-600-normal.woff2', 'fonts/inter-600.woff2')]:
+             (f'{NM}/@fontsource/inter/files/inter-latin-400-normal.woff2', 'fonts/inter-400.woff2'), (f'{NM}/@fontsource/inter/files/inter-latin-600-normal.woff2', 'fonts/inter-600.woff2'),
+             (f'{NM}/@fontsource/amiri/files/amiri-arabic-400-normal.woff2', 'fonts/amiri-400.woff2'), (f'{NM}/@fontsource/amiri/files/amiri-arabic-700-normal.woff2', 'fonts/amiri-700.woff2')]:
     shutil.copy(s, f'{B}/{d}')
 print(f'BUILD {ch}: {len(out)} scenes, {tot / 60:.2f} min, whisper match {100 * good / max(len(stoks), 1):.0f}% of {len(stoks)} words, cue misses {miss}')

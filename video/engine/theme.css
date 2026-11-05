@@ -2,6 +2,10 @@
 @font-face{font-family:Caveat;src:url(fonts/caveat-700.woff2) format('woff2');font-weight:700}
 @font-face{font-family:Inter;src:url(fonts/inter-400.woff2) format('woff2');font-weight:400}
 @font-face{font-family:Inter;src:url(fonts/inter-600.woff2) format('woff2');font-weight:600}
+@font-face{font-family:Caveat;src:url(fonts/amiri-400.woff2) format('woff2');font-weight:400;unicode-range:U+0600-06FF,U+FB50-FDFF,U+FE70-FEFF}
+@font-face{font-family:Caveat;src:url(fonts/amiri-700.woff2) format('woff2');font-weight:700;unicode-range:U+0600-06FF,U+FB50-FDFF,U+FE70-FEFF}
+@font-face{font-family:Inter;src:url(fonts/amiri-400.woff2) format('woff2');font-weight:400;unicode-range:U+0600-06FF,U+FB50-FDFF,U+FE70-FEFF}
+@font-face{font-family:Inter;src:url(fonts/amiri-700.woff2) format('woff2');font-weight:600;unicode-range:U+0600-06FF,U+FB50-FDFF,U+FE70-FEFF}
 :root{--paper:#F5F0E6;--ink:#23262F;--mute:#6B6558;--teal:#1F8A84;--coral:#D65A45;--amber:#C98A12;--blue:#3B6EA8}
 *{box-sizing:border-box;margin:0;padding:0}
 html,body{width:1280px;height:720px;overflow:hidden;background:#F5F0E6}
