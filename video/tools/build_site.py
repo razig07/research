@@ -29,6 +29,9 @@ if errs or low: raise SystemExit('VALIDATION FAILED: ' + '; '.join(errs + [f'{x}
 NM = f'{V}/node_modules/@fontsource'
 def ff(fam, w, p): return f"@font-face{{font-family:{fam};font-weight:{w};font-display:swap;src:url(data:font/woff2;base64,{base64.b64encode(open(f'{NM}/{p}', 'rb').read()).decode()}) format('woff2')}}"
 fonts = ff('Caveat', 700, 'caveat/files/caveat-latin-700-normal.woff2') + ff('Inter', 400, 'inter/files/inter-latin-400-normal.woff2') + ff('Inter', 600, 'inter/files/inter-latin-600-normal.woff2')
+# the salawat sign (U+FDFA) from Amiri, subset to that one glyph; declared last so it wins for that code point only
+def fa(fam, w, f): return f"@font-face{{font-family:{fam};font-weight:{w};font-display:swap;unicode-range:U+FDFA;src:url(data:font/woff2;base64,{base64.b64encode(open(f'{S}/fonts/{f}', 'rb').read()).decode()}) format('woff2')}}"
+fonts += fa('Caveat', 700, 'amiri-fdfa-700.woff2') + fa('Inter', 400, 'amiri-fdfa-400.woff2') + fa('Inter', 600, 'amiri-fdfa-700.woff2')
 data = {'chapters': LJ['chapters'], 'lessons': [{'id': l['id'], 'ch': l['ch'], 'title': l['title'], 'dur': l['dur'], 'scenes': [{'t': s['t'], 'n': s['n']} for s in l['scenes']], 'cues': l['cues']} for l in lessons], 'qs': qs}
 html = open(f'{S}/app.html').read().replace('/*FONTS*/', fonts).replace('/*DATA*/', json.dumps(data, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/'))
 open(f'{DIST}/index.html', 'w').write(html)

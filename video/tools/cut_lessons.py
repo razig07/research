@@ -53,7 +53,8 @@ for c in range(NCH):
 for lid, c, rs, title in L:
     if chs_only is not None and c not in chs_only: continue
     ch = f'ch{c:02d}'; sp = json.load(open(f'{V}/script/{ch}.json'))['scenes']; tm = json.load(open(f'{V}/build/{ch}/timing.json'))['scenes']
-    words = json.load(open(f'{V}/build/{ch}/vo.words.json'))['words']
+    wf = f'{V}/build/{ch}/script.words.json'  # script spelling + whisper timing; older builds only have whisper's words
+    words = json.load(open(wf if os.path.exists(wf) else f'{V}/build/{ch}/vo.words.json'))['words']
     idx = [i for i in rng(rs) if sp[i]['type'] != 'quiz']; groups = []
     for i in idx:
         if groups and groups[-1][-1] == i - 1: groups[-1].append(i)

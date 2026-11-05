@@ -38,6 +38,28 @@ for (si, pi), idx in groups.items():
         t = T[i]
         if t is not None and ps - 0.4 <= t <= pe + 0.4: TT[i] = t; good += 1
         else: TT[i] = ps + (pe - ps) * m / max(len(idx), 1)
+# ---- caption words in the script's own spelling (whisper mangles names like Bukhari), timed by the alignment ----
+CW, SRT = [], []
+for (si, pi), idx in sorted(groups.items()):
+    p = TM['scenes'][si]['parts'][pi]; ps, pe = p['start'], p['end']
+    ok = [T[i] is not None and ps - 0.4 <= T[i] <= pe + 0.4 for i in idx]; tt = []
+    for m, i in enumerate(idx):
+        if ok[m]: tt.append(T[i]); continue
+        lo = next(((k, T[idx[k]]) for k in range(m - 1, -1, -1) if ok[k]), (-1, ps))
+        hi = next(((k, T[idx[k]]) for k in range(m + 1, len(idx)) if ok[k]), (len(idx), pe))
+        tt.append(lo[1] + (hi[1] - lo[1]) * (m - lo[0]) / (hi[0] - lo[0]))
+    for m in range(1, len(tt)): tt[m] = max(tt[m], tt[m - 1])
+    part, k = [], 0
+    for dw in clean(ptexts(spec['scenes'][si])[pi]).split():
+        part.append({'word': dw, 'start': round(tt[min(k, len(tt) - 1)] if tt else ps, 3)}); k += len(norm(dw))
+    for m, w in enumerate(part): w['end'] = part[m + 1]['start'] if m + 1 < len(part) else round(max(pe, w['start']), 3)
+    CW += part; line = []
+    for w in part:
+        line.append(w)
+        if len(line) >= 8 or w['word'].endswith(('.', '?', '!')) or w is part[-1]: SRT.append((line[0]['start'], line[-1]['end'], ' '.join(x['word'] for x in line))); line = []
+json.dump({'words': CW}, open(f'{B}/script.words.json', 'w'), ensure_ascii=False)
+def srt_t(t): ms = int(round(t * 1000)); return f'{ms // 3600000:02d}:{ms // 60000 % 60:02d}:{ms // 1000 % 60:02d},{ms % 1000:03d}'
+open(f'{B}/script.srt', 'w').write(''.join(f'{n}\n{srt_t(a)} --> {srt_t(b)}\n{t}\n\n' for n, (a, b, t) in enumerate(SRT, 1)))
 class Sc:
     def __init__(s, si, sc):
         tm = TM['scenes'][si]; s.si, s.sc, s.st, s.du, s.parts = si, sc, tm['start'], tm['dur'], tm['parts']; s.en = s.st + s.du

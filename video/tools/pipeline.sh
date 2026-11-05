@@ -10,7 +10,7 @@ for ch in "$@"; do
   python3 tools/transcribe_for_hyperframes.py build/$ch/vo.wav --model small.en 2>&1 | grep -v Warning | tail -1; t2=$(date +%s)
   python3 tools/build.py $ch || { echo "FAIL build $ch"; continue; }
   (cd build/$ch && ../../node_modules/.bin/hyperframes render . -o ../../out/$ch.mp4 -f 24 --crf 27 -w 4 --quiet 2>&1 | tail -4); t3=$(date +%s)
-  cp build/$ch/vo.srt out/$ch.srt 2>/dev/null
+  { cp build/$ch/script.srt out/$ch.srt || cp build/$ch/vo.srt out/$ch.srt; } 2>/dev/null
   d=$(ffprobe -v error -show_entries format=duration -of csv=p=0 out/$ch.mp4 2>/dev/null); sz=$(du -m out/$ch.mp4 2>/dev/null | cut -f1)
   echo "DONE $ch video=${d}s size=${sz}MB tts=$((t1-t0))s whisper=$((t2-t1))s render=$((t3-t2))s"
 done
